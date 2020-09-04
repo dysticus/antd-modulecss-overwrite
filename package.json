@@ -75,7 +75,7 @@
         "jest-dom": "^3.0.1",
         "less": "^2.7.0",
         "less-loader": "^5.0.0",
-        "node-sass": "^4.10.0",
+        "node-sass": "^4.13.1",
         "postcss-loader": "^3.0.0",
         "prettier": "^1.16.1",
         "react-testing-library": "^7.0.1",
